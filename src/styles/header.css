@@ -1,0 +1,51 @@
+nav {
+  background-color: var(--THEME_COLOR);
+  display: flex;
+}
+
+nav a {
+  color: white;
+  padding: 12px 15px;
+  text-decoration: none;
+  font-size: large;
+  border-radius: 15px;
+}
+
+nav a:first-child{
+  cursor: default;
+}
+
+nav a:nth-last-child(3) {
+  margin-left: auto;
+}
+
+.logo {
+  align-self: center;
+  font-family: inherit;
+  height: max-content;
+}
+
+.logo a:hover {
+  background-color: rgb(66, 176, 139);
+  color: white;
+  cursor: default;
+}
+
+nav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* nav a:nth-child(4):hover{
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+} */
+
+nav span{
+  color: yellow;
+}
+
+@media screen and (min-width: 800px) {
+  
+  
+}
