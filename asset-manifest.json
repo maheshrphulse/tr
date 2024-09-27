@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/transFormatter/static/css/main.67b85c2e.css",
-    "main.js": "/transFormatter/static/js/main.67733f90.js",
-    "index.html": "/transFormatter/index.html",
-    "main.67b85c2e.css.map": "/transFormatter/static/css/main.67b85c2e.css.map",
-    "main.67733f90.js.map": "/transFormatter/static/js/main.67733f90.js.map"
+    "main.css": "/transformatter/static/css/main.67b85c2e.css",
+    "main.js": "/transformatter/static/js/main.67733f90.js",
+    "index.html": "/transformatter/index.html",
+    "main.67b85c2e.css.map": "/transformatter/static/css/main.67b85c2e.css.map",
+    "main.67733f90.js.map": "/transformatter/static/js/main.67733f90.js.map"
   },
   "entrypoints": [
     "static/css/main.67b85c2e.css",
